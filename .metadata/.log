@@ -2066,3 +2066,258 @@ java.net.UnknownHostException: download.eclipse.org
 	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:251)
 	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:71)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.219
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.234
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:25.235
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.414
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.427
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.427
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.427
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.427
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.427
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.427
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.430
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.815
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.815
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.815
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property http.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyHost has been set to rb-proxy-in.bosch.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2025-07-02 11:23:28.826
+!MESSAGE System property https.proxyPort has been set to 8080 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-07-02 11:26:17.331
+!MESSAGE Indexed 'Real_time_industry_safety_monitoring_system' (19 sources, 81 headers) in 3.04 sec: 4,291 declarations; 17,471 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0092%)
