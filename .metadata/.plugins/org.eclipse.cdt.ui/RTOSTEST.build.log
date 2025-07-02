@@ -1,0 +1,10 @@
+16:59:40 **** Incremental Build of configuration Debug for project RTOSTEST ****
+make -j8 all 
+arm-none-eabi-size   RTOSTEST.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18284	     28	  78876	  97188	  17ba4	RTOSTEST.elf
+Finished building: default.size.stdout
+ 
+
+16:59:41 Build Finished. 0 errors, 0 warnings. (took 1s.144ms)
+
